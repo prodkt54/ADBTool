@@ -1,1 +1,2 @@
-Run main.exe :) it's a main application
+Run main.exe is a main application
+Update 1: small library bugs fixed
